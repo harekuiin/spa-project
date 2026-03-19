@@ -1,5 +1,5 @@
-
-name: CI pipeline #comando para dar el nombre del flujo
+ #comando para dar el nombre del flujo
+name: CI pipeline
 
 #indica cuando se ejecuta el flujo:
 on:
